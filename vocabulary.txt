@@ -41,3 +41,5 @@ Body Parts:
 17) Adhesive -> able to stick fast to a surface. sticky.
 
 18) Bury -> Kappettadam.cover completely, put or hide underground.
+
+19) Indispensable -> Absolutely necessary,Essential,vital and crucial
